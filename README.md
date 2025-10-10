@@ -1,6 +1,6 @@
 # metacode_study
 
-8PM ~ 10PM
+9PM ~ 11PM
 
 |Date|Syllabus|
 |---|---|
