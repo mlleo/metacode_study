@@ -1,0 +1,4 @@
+Name : 신정호
+Affiliation : Machine Learning Engineer at Samsung Research
+Interests : Efficient AI, Inference acceleration, Natural Language Processing
+Notes : Startup cofounder, Paper, Patent, 
