@@ -5,11 +5,11 @@
 - python (최신 버전 3.11 이상 권장, 기존 python version이 3.11이 아닌 버전이 설치되어있는 경우 pyenv를 통해 3.11 버전을 추가로 설치해주세요)
 - git bash (윈도우 운영체제 사용자의 경우 리눅스 커맨드 이용을 위해)
 
-vscode와 git bash 설치 관련 참고 자료입니다
-https://velog.io/@yhe228/Git-Bash-%EC%84%A4%EC%B9%98-oxk3s9xj6m
+vscode와 git bash 설치 관련 참고 자료입니다 <br>
+https://velog.io/@yhe228/Git-Bash-%EC%84%A4%EC%B9%98-oxk3s9xj6m <br>
 https://nascode.tistory.com/entry/VS-CodeVisual-Studio-Code-%EA%B8%B0%EB%B3%B8-%ED%84%B0%EB%AF%B8%EB%84%90-Git-Bash%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
 
-pyenv 설치 관련 참고 자료입니다
+pyenv 설치 관련 참고 자료입니다 <br>
 https://javaexpert.tistory.com/1056
 
 
