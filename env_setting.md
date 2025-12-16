@@ -2,8 +2,16 @@
 기본적으로 아래의 항목들이 설치되어 있어야 합니다
 - git
 - vscode 설치 (extenstion으로 python, jupyter, black formatter 설치)
-- python (최신 버전 3.11 이상 권장)
+- python (최신 버전 3.11 이상 권장, 기존 python version이 3.11이 아닌 버전이 설치되어있는 경우 pyenv를 통해 3.11 버전을 추가로 설치해주세요)
 - git bash (윈도우 운영체제 사용자의 경우 리눅스 커맨드 이용을 위해)
+
+vscode와 git bash 설치 관련 참고 자료입니다
+https://velog.io/@yhe228/Git-Bash-%EC%84%A4%EC%B9%98-oxk3s9xj6m
+https://nascode.tistory.com/entry/VS-CodeVisual-Studio-Code-%EA%B8%B0%EB%B3%B8-%ED%84%B0%EB%AF%B8%EB%84%90-Git-Bash%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
+
+pyenv 설치 관련 참고 자료입니다
+https://javaexpert.tistory.com/1056
+
 
 위 설치가 완료되었으면 아래 순서대로 개발 환경을 세팅해주세요
 
